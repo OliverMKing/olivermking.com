@@ -1,6 +1,6 @@
 # olivermking.com
 
-My personal website.
+My personal website and blog. View it [here](https://www.olivermking.com).
 
 ## Theme
 
