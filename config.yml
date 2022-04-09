@@ -3,6 +3,14 @@ languageCode: en-us
 title: OliverMKing
 theme: PaperMod
 
+languages:
+  en:
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+
 params:
   defaultTheme: auto # switch between dark or light according to browser theme
 
@@ -15,9 +23,17 @@ params:
       url: https://github.com/OliverMKing
     - name: linkedin
       url: https://www.linkedin.com/in/oliver-merkley-king/
+    - name: RsS
+      url: index.xml
 
   showShareButtons: true
 
   showBreadCrumbs: true
 
   showPostNavLinks: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
