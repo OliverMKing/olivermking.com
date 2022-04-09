@@ -12,6 +12,8 @@ languages:
           weight: 10
 
 params:
+  author: Oliver King
+
   defaultTheme: auto # switch between dark or light according to browser theme
 
   homeInfoParams:
@@ -30,6 +32,11 @@ params:
   showBreadCrumbs: true
   showPostNavLinks: true
   showCodeCopyButtons: true
+
+  editPost:
+    URL: https://github.com/OliverMKing/olivermking.com/tree/main/content
+    Text: Suggest Changes
+    appendFilePath: true
 
 outputs:
   home:
