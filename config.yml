@@ -25,6 +25,8 @@ params:
       url: https://github.com/OliverMKing
     - name: linkedin
       url: https://www.linkedin.com/in/oliver-merkley-king/
+    - name: email
+      url: mailto:olivermerkleyking@gmail.com
     - name: RsS
       url: index.xml
 
