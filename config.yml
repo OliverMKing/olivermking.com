@@ -15,3 +15,5 @@ params:
       url: https://github.com/OliverMKing
     - name: linkedin
       url: https://www.linkedin.com/in/oliver-merkley-king/
+
+  showShareButtons: true
