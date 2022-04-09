@@ -17,7 +17,7 @@ params:
   defaultTheme: auto # switch between dark or light according to browser theme
 
   homeInfoParams:
-    Title: Hi there 👋
+    Title: Hi there, I'm Oliver 👋
     Content: Welcome to my blog
 
   socialIcons:
