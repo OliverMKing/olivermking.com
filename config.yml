@@ -27,10 +27,9 @@ params:
       url: index.xml
 
   showShareButtons: true
-
   showBreadCrumbs: true
-
   showPostNavLinks: true
+  showCodeCopyButtons: true
 
 outputs:
   home:
