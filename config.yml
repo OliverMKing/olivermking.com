@@ -17,3 +17,5 @@ params:
       url: https://www.linkedin.com/in/oliver-merkley-king/
 
   showShareButtons: true
+
+  showBreadCrumbs: true
