@@ -1,10 +1,8 @@
 ---
-title: "Hello World"
+title: "Hello World!"
 date: 2022-04-08T19:55:41-04:00
 draft: false
 ---
-
-## Hello World!
 
 Welcome to my blog! I'm starting this to document things that I find interesting and want to share. There will be a particular emphasis on Computer Science and Software Engineering topics, though.
 
