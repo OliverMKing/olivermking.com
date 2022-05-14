@@ -59,38 +59,64 @@ As the name implies, prebuilts are mechanical keyboards that come completely ass
 
 ## Keyboard Parts
 
-## Switches
+### Switches
 
 Switches are the part of the keyboard that impact feel the most. They are the mechanism that detects key presses and make the key travel up and down. Switch choice comes entirely down to personal preference. There's three main categories of switches to help you further simplify your decision.
 
-### Tactical
+#### Tactical
 
 Tactical switches have a bump at the actuation point providing tactical feedback to your fingers. This bump comes in many shapes and sizes changing the resulting feel significantly.
 
-These are my favorite kinda of switches. I find the bump extremely satisfying to type on. Boba U4 and U4Ts are what I use on my boards but I'd also recommend looking into Holy Panda Xs, Zealios V2, and T1s. Topre switches are close to U4T's feel but are only available on a few prebuilt builds.
+These are my favorite kinda of switches. I find the bump extremely satisfying to type on. Boba U4 and U4Ts are what I use on my boards but I'd also recommend looking into Holy Panda Xs, Zealios V2s, and T1s. Topre switches are close to U4T's feel but are only available on a few prebuilt builds.
 
-### Clicky
+#### Clicky
 
 Clicky switches have a similar feel to Tactical switches but they emit a significantly louder noise that's often high pitched. The amount of noise clicky switches generate make me hesitate to recommend them to anyone.
 
-### Linear
+#### Linear
 
 Linear switches are an extremely smooth switch that feel like they are going straight down then back up. There's no physical feedback from the switch and it is a consistent feeling.
 
-### Further Decisions
+Linear switches that I've liked include Alpaca V2s, Vintage MX Blacks, and Bobagums but there's many notable ones I haven't tried.
 
-Further decisions are difficult if you haven't felt a switch yourself. Even feeling a single one versus typing is a different experience. There's a common belief that some switches are better for different activities than others (e.g. linear switches are better for video games) but I wouldn't let them sway your decisions. Linears are better in a situation where you absolutely need as many presses as possible but the real-world performance of the two is close enough where it having any actual impact is highly unlikely.
+#### Further Decisions
 
-[ThereminGoat.com](https://www.theremingoat.com/) is a good way to research switches and get an in-depth review. His [switch scores list](https://github.com/ThereminGoat/switch-scores/blob/master/1-Composite%20Hard%20Total%20Score%20Sheet.csv) is a good way to get started.
+If you have decided on a prebuilt, the options you have for switches are already limited (unless the board is hotswap). Prebuilts only have a few switch options helping you limit the amount of decisions. If that doesn't apply, further decisions are difficult if you haven't consumed a switch yourself. Even feeling a single one versus typing is a different experience. There's a common belief that some switches are better for different activities than others (e.g. linear switches are better for video games) but I wouldn't let them sway your decisions. Linears are better in a situation where you absolutely need as many presses as possible but the real-world performance of the two is close enough where it having any actual impact is highly unlikely.
 
 It's important to note that linear and tactile switches also have silent switch options. While not completely silent they attempt to dampen noise as much as possible. Some people enjoy the "thocking" noise switches make while others find it annoying.
 
-## Keycaps
+[ThereminGoat.com](https://www.theremingoat.com/) is a good way to research switches and get an in-depth review. His [switch scores list](https://github.com/ThereminGoat/switch-scores/blob/master/1-Composite%20Hard%20Total%20Score%20Sheet.csv) is a good way to get started.
 
-Keycap choice highly impact the look of the board and the texture determines the feel.
+### Keycaps
 
-## Case
+Keycap choice obviously impacts board aesthetic but also changes texture and sound. Some keycaps are smooth while others have miniscule bumps on top. Personally, I haven't experienced a keycap texture I've disliked.
+
+#### Profiles
+
+Profile refers to the shape of a keycap which commonly varies in height and finger impression. Smaller tops mean key presses have to be more accurate while typing.
+
+Cherry profile is the most common mechanical keyboard keycap profile and my personal favorite.
+
+#### Brand
+
+Brand impacts the material, durability, texture, and quality of the keycap. ABS and PBT plastics are the most common materials with slight tradeoffs between the two.
+
+Legends on a keycap are either printed or double shot injected. Double shot uses two plastics making the legend effectively last forever. Higher-quality printing isn't prone to losing legends but they will eventually fade a bit.
+
+GMK and ePBT are my favorite but they are luxury brands and more expensive.
+
+### Case
 
 The case is the outer part of the keyboard. It's commonly found in Aluminum, Acrylic, and more traditional plastics. It impacts feel, weight, and sound of the board.
 
-Personally, I've found Acrylic to be the perfect medium between premium but not bank-breaking. My keyboards don't leave my desk so they don't need to be indestructible.
+Personally, I've found Acrylic to be the perfect medium between premium but not bank-breaking. Aluminum boards do feel nicer but if cost is an issue the acrylic boards are still great! My keyboards don't leave my desk so they don't need to be indestructible (acrylic and plastic are still very durable).
+
+## Layout
+
+For newcomers, it's often surprising how many different layout options keyboards have. More typical layouts are 60%, 65%, 75%, tenkeyless, 100%. The options for enthusiasts are almost endless with Alice, Split, Ortholinear, and other ergonomic layouts being popular. The reality is that with proper typing form, all these layouts should be comfortable.
+
+You can narrow down desired layout based on your every day use and deskspace. If you don't use the numpad, cut them out. If you don't use the function keys, cut them out. In a similar vein, if you don't commonly use something you can consider putting it on another layer. Again, a proper touch-typist should be able to bake simple "layers" for a few keys into their muscle memory with little effort.
+
+Alice is my favorite due to its ergonomic nature while not being so far from traditional layouts that I can't adjust as needed. Adapting to and from my work laptop keyboard is no problem.
+
+60%, alice, split
