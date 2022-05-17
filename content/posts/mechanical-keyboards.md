@@ -87,6 +87,14 @@ It's important to note that linear and tactile switches also have silent switch 
 
 [ThereminGoat.com](https://www.theremingoat.com/) is a good way to research switches and get an in-depth review. His [switch scores list](https://github.com/ThereminGoat/switch-scores/blob/master/1-Composite%20Hard%20Total%20Score%20Sheet.csv) is a good way to get started.
 
+### Stabilizers
+
+Going hand-in-hand with switches are stabilizers. Stabilizers keep your larger keys stable by supporting them along the sides. The spacebar is the best visualizer of this. Without stabilizers, it would only be supported by a single switch in the center creating a vastly varying sensation depending on where on the key you press.
+
+Popular "stabs" come in screw-in and clip-in types. Both connect to the PCB like the name suggests. Screw-in are my personal preference since it is impossible for the stabilizer to fall out in screw-in but apparently there are some new clip-in stabilizers that have revolutionized this part.
+
+Don't skimp out on the stabilizers. Good stabilizers create a nice deep sound and feel for the board while cheap ones create a rattle and inconsistent experience. Durock V2 / Everglide V2, Zealios, Owl, and TX are my personal suggestions.
+
 ### Keycaps
 
 Keycap choice obviously impacts board aesthetic but also changes texture and sound. Some keycaps are smooth while others have miniscule bumps on top. Personally, I haven't experienced a keycap texture I've disliked.
@@ -111,12 +119,16 @@ The case is the outer part of the keyboard. It's commonly found in Aluminum, Acr
 
 Personally, I've found Acrylic to be the perfect medium between premium but not bank-breaking. Aluminum boards do feel nicer but if cost is an issue the acrylic boards are still great! My keyboards don't leave my desk so they don't need to be indestructible (acrylic and plastic are still very durable).
 
-## Layout
+### Plate
+
+The plate is a layer that sits on top of the PCB but under the top of the case. It helps hold the switches in and highly impacts sound. It commonly comes in brass and plastic. Again, one's not strictly better than the other and it comes down to preference. I've liked both but have found that metal plates are definitely better for me.
+
+### Layout
 
 For newcomers, it's often surprising how many different layout options keyboards have. More typical layouts are 60%, 65%, 75%, tenkeyless, 100%. The options for enthusiasts are almost endless with Alice, Split, Ortholinear, and other ergonomic layouts being popular. The reality is that with proper typing form, all these layouts should be comfortable.
 
 You can narrow down desired layout based on your every day use and deskspace. If you don't use the numpad, cut them out. If you don't use the function keys, cut them out. In a similar vein, if you don't commonly use something you can consider putting it on another layer. Again, a proper touch-typist should be able to bake simple "layers" for a few keys into their muscle memory with little effort.
 
-Alice is my favorite due to its ergonomic nature while not being so far from traditional layouts that I can't adjust as needed. Adapting to and from my work laptop keyboard is no problem.
+Alice is my favorite due to its ergonomic nature while not being so far from traditional layouts that I can't adjust as needed. Adapting to and from my work laptop keyboard is no problem. There's other, more extreme, ergonomic layouts including split and what can only be described as "hand shaped".
 
-60%, alice, split
+At the end of the day, layout is completely preference and typists can adjust to any popular layout.
