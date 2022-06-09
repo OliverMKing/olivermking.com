@@ -132,3 +132,15 @@ You can narrow down desired layout based on your every day use and deskspace. If
 Alice is my favorite due to its ergonomic nature while not being so far from traditional layouts that I can't adjust as needed. Adapting to and from my work laptop keyboard is no problem. There's other, more extreme, ergonomic layouts including split and what can only be described as "hand shaped".
 
 At the end of the day, layout is completely preference and typists can adjust to any popular layout.
+
+## Buying
+
+If you've decided on a pre-built or just want to browse, your path is fairly straightforward. I've had great experiences with [mechanicalkeyboards.com](https://mechanicalkeyboards.com/) and highly recommend them. Leopold, Ducky, and HHKB are my recommended brands for pre-built. The Ducky One 3 is hotswap if you are looking for more enthusiast-grade switches. The [Glorious GMMK Pro](https://www.pcgamingrace.com/products/glorious-gmmk-pro-75-barebone-black) and [NovelKeys](https://novelkeys.com/) boards are other well-regarded hotswap pre-built. Hotswap means you can easily change the switches opening an almost endless slew of options.
+
+Unfortunately, purchasing a custom mechanical keyboard isn't so easy. The demand for extremely high-quality custom boards limits large corporation's involvement with the custom scene. Custom boards are often produced by individuals through "group buys". Group buys have a period where customers can sign up then the board will be manufactured and shipped, likely taking months for the entire process.
+
+Not only is this process inconvenient, but potential buyers also must properly vet sellers. These individual sellers often partner with reputable websites building rapport.
+
+## My Collection and Tools
+
+Soldering iron
